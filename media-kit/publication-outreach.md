@@ -17,9 +17,26 @@ Build genuine third-party technical coverage that can later support a Wikipedia 
 **Important:** InfoQ currently states that only about 10% of submitted articles make it to publishing, limits authors to one proposal per quarter, and says primarily AI-generated writing is rejected. The submitted article therefore needs substantial author expertise, verification, and original judgment.
 **Current status:** Proposal direction prepared. Author submission is required.
 
-## Priority 3 — Open-source/Linux publication
-**Topic angle:** Practical Linux/server hardening and secure infrastructure operations.
-**Current status:** Pitch prepared for an open-source-oriented publication. Verify its current editorial policy immediately before sending.
+## Priority 3 — HackerNoon
+**Topic:** Why Network Hardening Is More Than a Firewall
+**Route:** HackerNoon writing interface → Start Writing → Story Settings → Submit Story for Review.
+**Official checklist:** https://help.hackernoon.com/submit-a-story-checklist
+**Current status:** Submission concept prepared. Author account submission is required.
+
+## Priority 4 — Cybersecurity Insiders
+**Topic:** Network Hardening in Practice: Six Controls That Reduce Blast Radius
+**Route:** info@cybersecurity-insiders.com
+**Official contribution guidance:** https://www.cybersecurity-insiders.com/how-to-contribute-content/
+**Current status:** Pitch prepared.
+
+## Priority 5 — Help Net Security
+**Topic angle:** RTO on paper vs. in practice — dependency ordering, identity/DNS, credentials, backup integrity, network reachability, and recovery validation.
+**Route:** press@helpnetsecurity.com
+**Official editorial opportunities:** https://www.helpnetsecurity.com/editorial-opportunities/
+**Current status:** Targeted expert pitch prepared. Their current September 2026 opportunities explicitly request practical expert input on recovery exercises, dependency ordering, credential access, and backup integrity.
+
+## Important sequencing rule
+Do not submit the exact same full article to multiple outlets simultaneously when their originality/exclusivity policies conflict. Use distinct angles and original drafts for each publication.
 
 ## Evidence rules
 - Never buy fake coverage or guaranteed Wikipedia links.
@@ -27,7 +44,6 @@ Build genuine third-party technical coverage that can later support a Wikipedia 
 - Never claim independent coverage before publication.
 - Archive byline, publication date, canonical URL, and correspondence for every genuine placement.
 - Keep self-published material clearly separate from independent editorial coverage.
-- Avoid submitting the exact same article simultaneously where exclusivity or originality rules prohibit it.
 
 ## Wikipedia milestone
 Do not create a biography article merely because a profile exists. Reassess only after there is meaningful, in-depth coverage of the person in multiple independent, reliable secondary sources. Portfolio pages, GitHub repositories, LinkedIn profiles, and personal social posts can document underlying work but do not themselves replace independent coverage.
