@@ -19,10 +19,17 @@ The repository is part of the technical portfolio associated with:
 - CCTV / NVR infrastructure
 - Web and technical SEO
 
+## Case studies
+
+- [Enterprise Network Infrastructure & IT Operations](case-studies/enterprise-network-infrastructure-and-it-operations.md)
+- [Enterprise Network Infrastructure & IT Operations — English](case-studies/enterprise-network-infrastructure-and-it-operations.en.md)
+
+The case studies are intentionally sanitized: internal addresses, credentials, proprietary configurations, and confidential operational details are not published.
+
 ## About the author
 
-محمدحسین عسگری ثمرین is an IT / Network & Infrastructure Specialist developing practical expertise across networking, systems, security and IT operations. The portfolio website contains the broader professional background and technical knowledge base.
+محمدحسین عسگری ثمرین is an IT / Network & Infrastructure practitioner developing practical expertise across networking, systems, security and IT operations. The portfolio website contains the broader professional background and technical knowledge base.
 
-## Note
+## Evidence standard
 
-Project descriptions in this repository are kept factual and are not intended to imply client results, certifications or experience that are not explicitly documented.
+Project descriptions are kept factual. Public documentation should distinguish clearly between personal work, professional responsibilities, certifications, and independently verified claims. No client results, certifications or experience are implied unless they are explicitly documented.
