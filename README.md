@@ -1,11 +1,13 @@
 # Projects | Mohammad Hossein Asgari Somarin
 
-Technical projects and work collection by **محمدحسین عسگری ثمرین (Mohammad Hossein Asgari Somarin)**.
+Technical projects and public work collection by **محمدحسین عسگری ثمرین (Mohammad Hossein Asgari Somarin)**.
 
-The repository is part of the technical portfolio associated with:
+## Canonical professional references
 
-- **Professional website:** https://mowhmmdh.github.io/
-- **GitHub:** https://github.com/mowhmmdh
+- **Website:** https://mowhmmdh.github.io/
+- **Technical Authority:** https://mowhmmdh.github.io/authority.html
+- **English Authority:** https://mowhmmdh.github.io/en-authority.html
+- **Case Studies:** https://mowhmmdh.github.io/case-studies/
 - **LinkedIn:** https://www.linkedin.com/in/mohammadhosseinasgari/
 - **VinTech:** https://mowhmmdh.github.io/vintech.html
 
@@ -19,17 +21,21 @@ The repository is part of the technical portfolio associated with:
 - CCTV / NVR infrastructure
 - Web and technical SEO
 
-## Case studies
+## Public case studies
 
 - [Enterprise Network Infrastructure & IT Operations](case-studies/enterprise-network-infrastructure-and-it-operations.md)
 - [Enterprise Network Infrastructure & IT Operations — English](case-studies/enterprise-network-infrastructure-and-it-operations.en.md)
 
-The case studies are intentionally sanitized: internal addresses, credentials, proprietary configurations, and confidential operational details are not published.
-
-## About the author
-
-محمدحسین عسگری ثمرین is an IT / Network & Infrastructure practitioner developing practical expertise across networking, systems, security and IT operations. The portfolio website contains the broader professional background and technical knowledge base.
+The public case studies are intentionally sanitized. Internal addresses, credentials, proprietary configurations and confidential operational details are not published.
 
 ## Evidence standard
 
-Project descriptions are kept factual. Public documentation should distinguish clearly between personal work, professional responsibilities, certifications, and independently verified claims. No client results, certifications or experience are implied unless they are explicitly documented.
+Project descriptions distinguish between personal work, professional responsibilities, certifications and independently verified claims. No client result, certification, employment claim or technical outcome is presented as independent evidence unless a public source supports it.
+
+## Technical documentation standard
+
+Public material follows a repeatable engineering structure where appropriate:
+
+**Problem → Baseline → Evidence → Scope → Hypothesis → Controlled Change → Validation → Root Cause → Lessons Learned**
+
+The broader bilingual knowledge base and authority reference are maintained at the professional website.
